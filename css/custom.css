@@ -1,0 +1,46 @@
+.masthead-avatar {
+    border: 5px solid #FFF !important;
+}
+
+.servicos_txt_rel {
+    position: relative;
+}
+
+.servicos_txt_abs {
+    position: absolute;
+    z-index: 99;
+    left: 5px;
+    top: 5px;
+    overflow: hidden;
+    background-color: #2279FF;
+    border-radius: 7px;
+    border-top: 1px solid #2279;
+    border-left: 1px solid #2279;
+    border-bottom: 5px solid #2279;
+    border-right: 5px solid #2279;
+    padding: 8px 8px 3px 8px;
+}
+
+.servicos_txt_abs h2 {
+    color: #FFF;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.servicos_txt_abs h2.menor {
+    font-size: 21px;
+}
+
+
+.row-depoimentos {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row-depoimentos div img {
+    border: 6px outset #2279FF;
+}
+
+.sec_contato {
+    font-size: 21px;
+}
